@@ -1,0 +1,15 @@
+[INFO  - 2018-01-24T08:39:47.202Z] GhostDriver - Main - running on port 41611
+[INFO  - 2018-01-24T08:39:47.868Z] Session [22a381f0-00e2-11e8-895a-bf2ca141e89a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux i686) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-01-24T08:39:47.869Z] Session [22a381f0-00e2-11e8-895a-bf2ca141e89a] - page.customHeaders:  - {}
+[INFO  - 2018-01-24T08:39:47.869Z] Session [22a381f0-00e2-11e8-895a-bf2ca141e89a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-01-24T08:39:47.869Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 22a381f0-00e2-11e8-895a-bf2ca141e89a
+[ERROR - 2018-01-24T08:39:52.529Z] Session [22a381f0-00e2-11e8-895a-bf2ca141e89a] - page.onError - msg: TypeError: undefined is not an object (evaluating '$.browser.msie')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-24T08:39:52.538Z] Session [22a381f0-00e2-11e8-895a-bf2ca141e89a] - page.onError - stack:
+  (anonymous function) (http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=74d7f9dfba2a8f0c77330b0ce51f:64)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-24T08:39:56.275Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1516783196235
+
+  phantomjs://platform/console++.js:263 in error

@@ -1,0 +1,5 @@
+DESTINO_ERROR = 'El destino no existe.'
+ORIGEN_ERROR = 'El origen no existe.'
+ERROR = 'Error'
+OK = 'Ok'
+UNKNOWN_ERROR = 'Error al extraer datos.'

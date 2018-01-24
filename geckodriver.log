@@ -1,0 +1,775 @@
+1515488867829	geckodriver	INFO	geckodriver 0.19.1
+1515488867839	geckodriver	INFO	Listening on 127.0.0.1:32843
+1515488869003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.35MqjvBQHLOh"
+1515488871894	Marionette	INFO	Enabled via --marionette
+1515488877179	Marionette	INFO	Listening on port 35541
+1515488877278	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515488877464	Marionette	DEBUG	Register listener.js for window 2147483649
+1515488877598	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515488877890	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515488877891	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://www.tresguerras.com.mx/3G/Scripts/GoogleAnalytic.js, line 21: SyntaxError: expected expression, got '<'
+1515488881749	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.tresguerras.com.mx/3G/cotizadorcp.php"
+1515488881965	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.tresguerras.com.mx/3G/cotizadorcp.php"
+1515488886241	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 12438, Chrome_ChildThread] WARNING: pipe error (15): Conexión reinicializada por la máquina remota: file /build/firefox-8FOPVg/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12438, Chrome_ChildThread] WARNING: pipe error (3): Conexión reinicializada por la máquina remota: file /build/firefox-8FOPVg/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1515488944130	geckodriver	INFO	geckodriver 0.19.1
+1515488944139	geckodriver	INFO	Listening on 127.0.0.1:51299
+1515488945292	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jOgsdMINoGNh"
+1515488947653	Marionette	INFO	Enabled via --marionette
+1515488952834	Marionette	INFO	Listening on port 32961
+1515488952981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515488953316	Marionette	DEBUG	Register listener.js for window 2147483649
+1515488953751	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515488954029	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515488954031	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://www.tresguerras.com.mx/3G/Scripts/GoogleAnalytic.js, line 21: SyntaxError: expected expression, got '<'
+1515488957698	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.tresguerras.com.mx/3G/cotizadorcp.php"
+1515488957901	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.tresguerras.com.mx/3G/cotizadorcp.php"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515489013887	geckodriver	INFO	geckodriver 0.19.1
+1515489013903	geckodriver	INFO	Listening on 127.0.0.1:35823
+1515489015075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5dm2Vayclj2M"
+1515489017154	Marionette	INFO	Enabled via --marionette
+1515489020505	Marionette	INFO	Listening on port 35879
+1515489020567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515489020747	Marionette	DEBUG	Register listener.js for window 2147483649
+1515489020786	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515489020998	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515489020999	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://www.tresguerras.com.mx/3G/Scripts/GoogleAnalytic.js, line 21: SyntaxError: expected expression, got '<'
+1515489024239	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.tresguerras.com.mx/3G/cotizadorcp.php"
+1515489024325	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.tresguerras.com.mx/3G/cotizadorcp.php"
+1515489057627	geckodriver	INFO	geckodriver 0.19.1
+1515489057637	geckodriver	INFO	Listening on 127.0.0.1:53601
+1515489058986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pejN8MPVvbER"
+1515489060673	Marionette	INFO	Enabled via --marionette
+1515489066281	Marionette	INFO	Listening on port 43723
+1515489066668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515489067066	Marionette	DEBUG	Register listener.js for window 2147483649
+1515489067641	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515489068323	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515489068324	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://www.tresguerras.com.mx/3G/Scripts/GoogleAnalytic.js, line 21: SyntaxError: expected expression, got '<'
+1515489075435	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.tresguerras.com.mx/3G/cotizadorcp.php"
+1515489075810	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.tresguerras.com.mx/3G/cotizadorcp.php"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515489116242	geckodriver	INFO	geckodriver 0.19.1
+1515489116255	geckodriver	INFO	Listening on 127.0.0.1:60149
+1515489117401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dw1ktYeT2l90"
+1515489119556	Marionette	INFO	Enabled via --marionette
+1515489127389	Marionette	INFO	Listening on port 45621
+1515489127569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515489128182	Marionette	DEBUG	Register listener.js for window 2147483649
+1515489128640	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515489129196	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515489129200	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://www.tresguerras.com.mx/3G/Scripts/GoogleAnalytic.js, line 21: SyntaxError: expected expression, got '<'
+1515489149824	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.tresguerras.com.mx/3G/cotizadorcp.php"
+1515489159963	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.tresguerras.com.mx/3G/cotizadorcp.php"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515489187167	geckodriver	INFO	geckodriver 0.19.1
+1515489187190	geckodriver	INFO	Listening on 127.0.0.1:53713
+1515489188379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zssk0U7inaOr"
+1515489190509	Marionette	INFO	Enabled via --marionette
+1515489199103	Marionette	INFO	Listening on port 36033
+1515489199312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515489199700	Marionette	DEBUG	Register listener.js for window 2147483649
+1515489201647	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515489202625	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515489202637	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://www.tresguerras.com.mx/3G/Scripts/GoogleAnalytic.js, line 21: SyntaxError: expected expression, got '<'
+1515489291121	geckodriver	INFO	geckodriver 0.19.1
+1515489291134	geckodriver	INFO	Listening on 127.0.0.1:50519
+1515489292300	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YFH0EMdJUPs8"
+1515489293666	Marionette	INFO	Enabled via --marionette
+1515489297176	Marionette	INFO	Listening on port 36501
+1515489297221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515489297399	Marionette	DEBUG	Register listener.js for window 2147483649
+1515489297433	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515489297690	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515489297691	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://www.tresguerras.com.mx/3G/Scripts/GoogleAnalytic.js, line 21: SyntaxError: expected expression, got '<'
+1515489300057	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.tresguerras.com.mx/3G/cotizadorcp.php"
+1515489300188	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.tresguerras.com.mx/3G/cotizadorcp.php"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516576472154	geckodriver	INFO	geckodriver 0.19.1
+1516576472191	geckodriver	INFO	Listening on 127.0.0.1:46533
+1516576473287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XqqZI7QHl2aE"
+1516576473943	Marionette	INFO	Enabled via --marionette
+1516576476408	Marionette	INFO	Listening on port 33085
+1516576476473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516576476627	Marionette	DEBUG	Register listener.js for window 2147483649
+1516576476671	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516576477106	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516576477107	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516576479104	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516576479124	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+1516576661363	geckodriver	INFO	geckodriver 0.19.1
+1516576661367	geckodriver	INFO	Listening on 127.0.0.1:60135
+1516576662505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bywDdsFpeNEE"
+1516576663258	Marionette	INFO	Enabled via --marionette
+1516576666008	Marionette	INFO	Listening on port 40607
+1516576666086	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516576666270	Marionette	DEBUG	Register listener.js for window 2147483649
+1516576666302	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516576666759	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516576666759	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516576669025	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516576669042	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+1516576884221	geckodriver	INFO	geckodriver 0.19.1
+1516576884226	geckodriver	INFO	Listening on 127.0.0.1:40057
+1516576885363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WvvWFhG2wBJS"
+1516576886080	Marionette	INFO	Enabled via --marionette
+1516576888662	Marionette	INFO	Listening on port 35691
+1516576888745	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516576888911	Marionette	DEBUG	Register listener.js for window 2147483649
+1516576888959	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516576889360	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516576889360	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516576891635	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516576891681	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+1516576959445	geckodriver	INFO	geckodriver 0.19.1
+1516576959495	geckodriver	INFO	Listening on 127.0.0.1:48873
+1516576960565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ozPZBEzA8SsE"
+1516576961266	Marionette	INFO	Enabled via --marionette
+1516576965166	Marionette	INFO	Listening on port 42529
+1516576965309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516576965529	Marionette	DEBUG	Register listener.js for window 2147483649
+1516576965562	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516576966039	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516576966041	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516576969076	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516576969109	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+1516577151316	geckodriver	INFO	geckodriver 0.19.1
+1516577151337	geckodriver	INFO	Listening on 127.0.0.1:47191
+1516577152710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6QQ65WK4uSBa"
+1516577154956	Marionette	INFO	Enabled via --marionette
+1516577158828	Marionette	INFO	Listening on port 32907
+1516577158882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516577159229	Marionette	DEBUG	Register listener.js for window 2147483649
+1516577159252	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516577159672	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516577159672	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516577162189	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516577165265	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+1516577165855	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516577166366	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516577166367	Marionette	DEBUG	Received DOM event "unload" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516577167421	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516577167689	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.tpitic.com.mx
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.tpitic.com.mx
+1516577742683	geckodriver	INFO	geckodriver 0.19.1
+1516577742690	geckodriver	INFO	Listening on 127.0.0.1:40491
+1516577743825	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Oa6X7z1PUKAg"
+1516577744559	Marionette	INFO	Enabled via --marionette
+1516577747057	Marionette	INFO	Listening on port 38015
+1516577747100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516577747213	Marionette	DEBUG	Register listener.js for window 2147483649
+1516577747254	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516577747730	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516577747731	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516577749777	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516577749799	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+1516577750461	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516577750914	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516577750928	Marionette	DEBUG	Received DOM event "unload" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516577751833	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516577751845	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516676890198	geckodriver	INFO	geckodriver 0.19.1
+1516676890207	geckodriver	INFO	Listening on 127.0.0.1:50127
+1516676891370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bSFN3q9Paq7E"
+1516676892168	Marionette	INFO	Enabled via --marionette
+1516676895196	Marionette	INFO	Listening on port 34837
+1516676895265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516676895452	Marionette	DEBUG	Register listener.js for window 2147483649
+1516676895494	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516676895989	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516676895989	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516676898288	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516676898308	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+1516676899036	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516676899496	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516676899502	Marionette	DEBUG	Received DOM event "unload" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516676900227	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516676900373	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516678076859	geckodriver	INFO	geckodriver 0.19.1
+1516678076865	geckodriver	INFO	Listening on 127.0.0.1:52395
+1516678078001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.201LFHE4gttz"
+1516678078845	Marionette	INFO	Enabled via --marionette
+1516678081767	Marionette	INFO	Listening on port 35089
+1516678081788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516678081955	Marionette	DEBUG	Register listener.js for window 2147483649
+1516678081986	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516678082577	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516678082578	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516678084984	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516678085013	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+1516678085806	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516678086251	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516678086259	Marionette	DEBUG	Received DOM event "unload" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516678087047	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516678087382	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516678946285	geckodriver	INFO	geckodriver 0.19.1
+1516678946293	geckodriver	INFO	Listening on 127.0.0.1:59667
+1516678947496	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SV0jonRNI5X6"
+1516678948624	Marionette	INFO	Enabled via --marionette
+1516678951759	Marionette	INFO	Listening on port 34145
+1516678951891	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516678952064	Marionette	DEBUG	Register listener.js for window 2147483649
+1516678952158	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516678952637	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516678952639	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516678955546	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516678955557	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+JavaScript error: https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php, line 1: ReferenceError: TeclaNumeros is not defined
+1516678956147	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516678956511	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516678956512	Marionette	DEBUG	Received DOM event "unload" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516678956952	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+1516678957411	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.tpitic.com.mx/clientes/sitio2015/cotizacliente.php"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516768570440	geckodriver	INFO	geckodriver 0.19.1
+1516768570449	geckodriver	INFO	Listening on 127.0.0.1:52825
+1516768571619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JvYDFPJDtqtf"
+1516768572930	Marionette	INFO	Enabled via --marionette
+1516768576314	Marionette	INFO	Listening on port 46443
+1516768576412	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516768576578	Marionette	DEBUG	Register listener.js for window 2147483649
+1516768576633	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516768577005	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516768577005	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516768580372	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=66e8f245bcb060c60adaaf95593a, line 64: TypeError: $.browser is undefined
+1516768586323	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+1516768981098	geckodriver	INFO	geckodriver 0.19.1
+1516768981121	geckodriver	INFO	Listening on 127.0.0.1:33389
+1516768982232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qre8eCzq25i8"
+1516768983928	Marionette	INFO	Enabled via --marionette
+1516768988933	Marionette	INFO	Listening on port 41881
+1516768988984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516768989060	Marionette	DEBUG	Register listener.js for window 2147483649
+1516768989107	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516768989468	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516768989468	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516768991691	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=674dad7bc26be601e90e225a6876, line 64: TypeError: $.browser is undefined
+1516768999444	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+1516769061838	geckodriver	INFO	geckodriver 0.19.1
+1516769061847	geckodriver	INFO	Listening on 127.0.0.1:53493
+1516769062991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GTZEueoZITvX"
+1516769063840	Marionette	INFO	Enabled via --marionette
+1516769066616	Marionette	INFO	Listening on port 40661
+1516769066685	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516769066904	Marionette	DEBUG	Register listener.js for window 2147483649
+1516769067019	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516769067476	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516769067479	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516769070787	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=6760cb20d2fe0045f65a0b40d1f5, line 64: TypeError: $.browser is undefined
+1516769077511	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+1516769078970	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516769079832	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516769080400	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://apps.castores.com.mx
+1516770450055	geckodriver	INFO	geckodriver 0.19.1
+1516770450061	geckodriver	INFO	Listening on 127.0.0.1:39707
+1516770451214	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DNgAicz0lERM"
+1516770453131	Marionette	INFO	Enabled via --marionette
+1516770457270	Marionette	INFO	Listening on port 42915
+1516770457325	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516770457516	Marionette	DEBUG	Register listener.js for window 2147483649
+1516770457602	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516770458777	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516770458777	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516770462044	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=68b4f0175154d0774b45bf65fda1, line 64: TypeError: $.browser is undefined
+1516770467635	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+1516770588334	geckodriver	INFO	geckodriver 0.19.1
+1516770588351	geckodriver	INFO	Listening on 127.0.0.1:58959
+1516770589528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Av70Wtakj0xn"
+1516770591645	Marionette	INFO	Enabled via --marionette
+1516770595314	Marionette	INFO	Listening on port 42771
+1516770595440	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516770595624	Marionette	DEBUG	Register listener.js for window 2147483649
+1516770595693	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516770596044	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516770596045	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516770598830	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=68d6311e22fc3d55f090af2e60db, line 64: TypeError: $.browser is undefined
+1516770604433	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516774939520	geckodriver	INFO	geckodriver 0.19.1
+1516774939528	geckodriver	INFO	Listening on 127.0.0.1:57491
+1516774941193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HrNGcttww381"
+1516774943605	Marionette	INFO	Enabled via --marionette
+1516774949652	Marionette	INFO	Listening on port 33419
+1516774949776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516774950039	Marionette	DEBUG	Register listener.js for window 2147483649
+1516774950101	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516774950484	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516774950484	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516774953104	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=6cfd00e63d685a0fa332acbb6d26, line 64: TypeError: $.browser is undefined
+1516774960883	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+1516775390041	geckodriver	INFO	geckodriver 0.19.1
+1516775390049	geckodriver	INFO	Listening on 127.0.0.1:35583
+1516775391213	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4fqablgWfZRO"
+1516775393916	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 341: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516775800433	geckodriver	INFO	geckodriver 0.19.1
+1516775800445	geckodriver	INFO	Listening on 127.0.0.1:42689
+1516775801709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KgvOoBOxdBKb"
+1516775803553	Marionette	INFO	Enabled via --marionette
+1516775809950	Marionette	INFO	Listening on port 43073
+1516775810282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516775810635	Marionette	DEBUG	Register listener.js for window 2147483649
+1516775810677	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516775811023	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516775811023	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516775814416	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=6dcf4abcb53bf1a5398a069f8318, line 64: TypeError: $.browser is undefined
+1516775821498	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516775853683	geckodriver	INFO	geckodriver 0.19.1
+1516775853701	geckodriver	INFO	Listening on 127.0.0.1:33151
+1516775854922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Jw6fCANrSW7F"
+1516775856511	Marionette	INFO	Enabled via --marionette
+1516775859883	Marionette	INFO	Listening on port 39165
+1516775859908	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516775860074	Marionette	DEBUG	Register listener.js for window 2147483649
+1516775860111	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516775860466	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516775860467	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516775863562	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=6ddb26d54994643d04d7ab61f63e, line 64: TypeError: $.browser is undefined
+1516775869656	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+1516775959959	geckodriver	INFO	geckodriver 0.19.1
+1516775959989	geckodriver	INFO	Listening on 127.0.0.1:60745
+1516775961183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.H8kt1u7vbwcu"
+1516775966231	Marionette	INFO	Enabled via --marionette
+1516775996929	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281
+1516775998149	Marionette	INFO	Listening on port 44211
+1516775998203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516776003049	geckodriver	INFO	geckodriver 0.19.1
+1516776003062	geckodriver	INFO	Listening on 127.0.0.1:47873
+1516776004250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zizu3dNBYssS"
+1516776006338	Marionette	INFO	Enabled via --marionette
+1516776013689	Marionette	INFO	Listening on port 45625
+1516776013903	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516776014078	Marionette	DEBUG	Register listener.js for window 2147483649
+1516776015140	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516776015803	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516776015806	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516776028531	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+1516777027184	geckodriver	INFO	geckodriver 0.19.1
+1516777027193	geckodriver	INFO	Listening on 127.0.0.1:47083
+1516777028367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kpRuZ8aRoxhB"
+1516777029580	Marionette	INFO	Enabled via --marionette
+1516777032764	Marionette	INFO	Listening on port 36195
+1516777032844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516777033010	Marionette	DEBUG	Register listener.js for window 2147483649
+1516777033131	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516777033500	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516777033501	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516777036430	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=6ef98058cd39b0a6325ea91df120, line 64: TypeError: $.browser is undefined
+1516777042078	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+1516777053021	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516777053981	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516777055003	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516777534905	geckodriver	INFO	geckodriver 0.19.1
+1516777534914	geckodriver	INFO	Listening on 127.0.0.1:52125
+1516777536079	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bLbQVt4gBggH"
+1516777537173	Marionette	INFO	Enabled via --marionette
+1516777540921	Marionette	INFO	Listening on port 39537
+1516777541022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516777541283	Marionette	DEBUG	Register listener.js for window 2147483649
+1516777541327	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516777541715	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516777541716	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516777545423	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=6f75926a98aa421ebda18a75638f, line 64: TypeError: $.browser is undefined
+1516777549563	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+1516777560871	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516777561882	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516777562790	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516778180377	geckodriver	INFO	geckodriver 0.19.1
+1516778180404	geckodriver	INFO	Listening on 127.0.0.1:49769
+1516778181729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UvO3ZrI0N0LM"
+1516778183512	Marionette	INFO	Enabled via --marionette
+1516778187463	Marionette	INFO	Listening on port 45383
+1516778187504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516778187728	Marionette	DEBUG	Register listener.js for window 2147483649
+1516778187793	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516778188146	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516778188147	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516778191083	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=70136473074cdfd4e64109c16f60, line 64: TypeError: $.browser is undefined
+1516778196369	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+1516778207353	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516778208279	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516778209270	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516778209870	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516778375525	geckodriver	INFO	geckodriver 0.19.1
+1516778375536	geckodriver	INFO	Listening on 127.0.0.1:46561
+1516778376704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zly383fL2PEY"
+1516778377736	Marionette	INFO	Enabled via --marionette
+1516778382212	Marionette	INFO	Listening on port 35579
+1516778382315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516778382576	Marionette	DEBUG	Register listener.js for window 2147483649
+1516778382639	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516778383023	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516778383024	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516778385403	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=7042e5893b72ccd13f30ea8770d1, line 64: TypeError: $.browser is undefined
+1516778390053	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+1516778401049	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516778402157	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516778403256	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516778541524	geckodriver	INFO	geckodriver 0.19.1
+1516778541530	geckodriver	INFO	Listening on 127.0.0.1:55131
+1516778542881	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.79ZsntN8URdL"
+1516778544543	Marionette	INFO	Enabled via --marionette
+1516778551128	Marionette	INFO	Listening on port 36239
+1516778551255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516778551654	Marionette	DEBUG	Register listener.js for window 2147483649
+1516778551787	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516778552212	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516778552212	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516778554642	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=706c471f88ac8a39086608da3bef, line 64: TypeError: $.browser is undefined
+1516778559836	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+1516778570892	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516778571837	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516778572692	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516778573134	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516778659917	geckodriver	INFO	geckodriver 0.19.1
+1516778659934	geckodriver	INFO	Listening on 127.0.0.1:45361
+1516778661334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.q30mKWWrww9x"
+1516778663027	Marionette	INFO	Enabled via --marionette
+1516778667408	Marionette	INFO	Listening on port 42433
+1516778667501	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516778667793	Marionette	DEBUG	Register listener.js for window 2147483649
+1516778667824	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516778668222	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516778668223	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516778671340	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=7088dd246c4c51f208a8e364964c, line 64: TypeError: $.browser is undefined
+1516778676454	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+1516778687393	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516778688254	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516778689207	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516778712613	geckodriver	INFO	geckodriver 0.19.1
+1516778712620	geckodriver	INFO	Listening on 127.0.0.1:50375
+1516778713799	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2fTc2kzZjjWF"
+1516778714979	Marionette	INFO	Enabled via --marionette
+1516778719236	Marionette	INFO	Listening on port 34671
+1516778719311	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516778719442	Marionette	DEBUG	Register listener.js for window 2147483649
+1516778719520	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516778719949	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516778719952	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516778721928	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=7095305324ccb75c4d1bf7cb2a6c, line 64: TypeError: $.browser is undefined
+1516778727059	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+1516778738114	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516778739030	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516778740155	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516778762281	geckodriver	INFO	geckodriver 0.19.1
+1516778762285	geckodriver	INFO	Listening on 127.0.0.1:48457
+1516778763486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5pLIWjSNRLgP"
+1516778764910	Marionette	INFO	Enabled via --marionette
+1516778769186	Marionette	INFO	Listening on port 34557
+1516778769278	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516778769445	Marionette	DEBUG	Register listener.js for window 2147483649
+1516778769488	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516778769887	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516778769888	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516778772522	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=70a16125c77d0279a1f1c8f4744d, line 64: TypeError: $.browser is undefined
+1516778777177	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+1516778788142	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516778789036	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516778790458	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516779110501	geckodriver	INFO	geckodriver 0.19.1
+1516779110506	geckodriver	INFO	Listening on 127.0.0.1:36923
+1516779111688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hF5Rm7HcAhjV"
+1516779112705	Marionette	INFO	Enabled via --marionette
+1516779116340	Marionette	INFO	Listening on port 33609
+1516779116373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516779116557	Marionette	DEBUG	Register listener.js for window 2147483649
+1516779116587	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516779116928	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516779116928	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516779119083	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=70f61c1748a497d09367b287ba49, line 64: TypeError: $.browser is undefined
+1516779124337	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+1516779135289	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516779136388	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516779137608	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516779154783	geckodriver	INFO	geckodriver 0.19.1
+1516779154787	geckodriver	INFO	Listening on 127.0.0.1:34929
+1516779155992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bJ7Q9RX7sqOL"
+1516779158580	Marionette	INFO	Enabled via --marionette
+1516779164729	Marionette	INFO	Listening on port 37311
+1516779164843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516779165124	Marionette	DEBUG	Register listener.js for window 2147483649
+1516779165155	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516779165561	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516779165561	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516779170589	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=710259b3c5e080fd533f2641df74, line 64: TypeError: $.browser is undefined
+1516779175600	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+1516779187003	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516779187970	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516779188993	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516779829167	geckodriver	INFO	geckodriver 0.19.1
+1516779829171	geckodriver	INFO	Listening on 127.0.0.1:33307
+1516779830466	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yjhctepWfd38"
+1516779831776	Marionette	INFO	Enabled via --marionette
+1516779835196	Marionette	INFO	Listening on port 44203
+1516779835282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516779835461	Marionette	DEBUG	Register listener.js for window 2147483649
+1516779835655	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516779836061	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516779836064	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516779838836	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=71a5d33c315968d502230b42fa30, line 64: TypeError: $.browser is undefined
+1516779844723	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+1516779850687	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516779851589	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516779852548	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516779895638	geckodriver	INFO	geckodriver 0.19.1
+1516779895645	geckodriver	INFO	Listening on 127.0.0.1:50985
+1516779896887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6iXH9xNKUuL1"
+1516779898401	Marionette	INFO	Enabled via --marionette
+1516779902370	Marionette	INFO	Listening on port 45817
+1516779902394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516779902563	Marionette	DEBUG	Register listener.js for window 2147483649
+1516779902607	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516779902957	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516779902958	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516779905537	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=71b5f6b1222d3a7883a67bb9e937, line 64: TypeError: $.browser is undefined
+1516779910451	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+1516779916995	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516779917877	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516779918749	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516780728052	geckodriver	INFO	geckodriver 0.19.1
+1516780728061	geckodriver	INFO	Listening on 127.0.0.1:58391
+1516780729825	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lnfpKiWzZb1b"
+1516780733323	Marionette	INFO	Enabled via --marionette
+1516780737742	Marionette	INFO	Listening on port 33345
+1516780737770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516780737935	Marionette	DEBUG	Register listener.js for window 2147483649
+1516780737968	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516780738368	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516780738369	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516780740273	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=7281ee4be07d68d59d12be5436d9, line 64: TypeError: $.browser is undefined
+1516780745245	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+1516780751198	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516780752118	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516780753022	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516780753922	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516782633008	geckodriver	INFO	geckodriver 0.19.1
+1516782633015	geckodriver	INFO	Listening on 127.0.0.1:54023
+1516782634505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.w47IlBDpdW1k"
+1516782637345	Marionette	INFO	Enabled via --marionette
+1516782641839	Marionette	INFO	Listening on port 44185
+1516782641992	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516782642304	Marionette	DEBUG	Register listener.js for window 2147483649
+1516782642572	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516782642995	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516782642996	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516782645415	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=74530c364240499c9b5f2cf6d62f, line 64: TypeError: $.browser is undefined
+1516782650388	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+1516782651949	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516782652856	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516782654518	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516782856197	geckodriver	INFO	geckodriver 0.19.1
+1516782856208	geckodriver	INFO	Listening on 127.0.0.1:59487
+1516782857413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pKOVECdjVUVX"
+1516782859807	Marionette	INFO	Enabled via --marionette
+1516782863697	Marionette	INFO	Listening on port 35249
+1516782863776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516782863939	Marionette	DEBUG	Register listener.js for window 2147483649
+1516782864006	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516782864408	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516782864415	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516782867790	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=748950c66cde2da280daec0c36c7, line 64: TypeError: $.browser is undefined
+1516782872782	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+1516782874025	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516782874963	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516782876409	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516783034259	geckodriver	INFO	geckodriver 0.19.1
+1516783034274	geckodriver	INFO	Listening on 127.0.0.1:54067
+1516783035466	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pdsX6g3xeULR"
+1516783038177	Marionette	INFO	Enabled via --marionette
+1516783044496	Marionette	INFO	Listening on port 40821
+1516783044529	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516783044747	Marionette	DEBUG	Register listener.js for window 2147483649
+1516783044778	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516783045198	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516783045208	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516783050197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.castores.com.mx/cotizador/"
+JavaScript error: http://apps.castores.com.mx/cotizador/resources/js/jquery/plugins/jquery.simplemodal-1.4.1.js;jsessionid=74b5a1e374616ee8c8d2530f90fe, line 64: TypeError: $.browser is undefined
+1516783055301	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.castores.com.mx/cotizador/"
+1516783056500	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516783057413	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516783059122	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
